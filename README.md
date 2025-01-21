@@ -6,3 +6,5 @@ there is nothing more important than a version control, here I want to tell you 
 ```bash
 sudo apt install git
 ```
+
+### Thank you for being with us
